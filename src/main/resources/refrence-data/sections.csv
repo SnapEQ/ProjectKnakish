@@ -1,0 +1,34 @@
+code,name
+010,Rolnictwo i łowiectwo
+020,Leśnictwo
+050,Rybołówstwo i rybactwo
+100,Górnictwo i kopalnictwo
+150,Przetwórstwo przemysłowe
+400,"Wytwarzanie i zaopatrywanie w energię elektryczną, gaz i wodę"
+500,Handel
+550,Hotele i restauracje
+600,Transport i łączność
+630,Turystyka
+700,Gospodarka mieszkaniowa
+710,Działalność usługowa
+720,Informatyka
+730,Szkolnictwo wyższe i nauka
+750,Administracja publiczna
+751,"Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa"
+752,Obrona narodowa
+753,Obowiązkowe ubezpieczenia społeczne
+754,Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+755,Wymiar sprawiedliwości
+756,Dochody od osób prawnych od jednostek nieposiadających osobowości prawnej oraz wydatki związane z ich poborem
+757,Obsługa długu publicznego
+758,Różne rozliczenia
+801,Oświata i wychowanie
+851,Ochrona zdrowia
+852,Pomoc społeczna
+853,Pozostałe zadania w zakresie polityki społecznej
+854,Edukacyjna opieka wychowawcza
+855,Rodzina
+900,Gospodarka komunalna i ochrona środowiska
+921,Kultura i ochrona dziedzictwa narodowego
+925,Ogrody botaniczne i zoologiczne oraz naturalne obszary i obiekty chronionej przyrody
+926,Kultura ﬁzyczna

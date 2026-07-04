@@ -1,0 +1,296 @@
+code,name,expense_group
+200,"Dotacja celowa w ramach programów finansowanych z udziałem środków europejskich oraz środków, o których mowa w art. 5 ust. 1 pkt 3 oraz ust. 3 pkt 5 i 6 ustawy, lub płatności w ramach budżetu środków europejskich, z wyłączeniem wydatków klasyfikowanych w paragrafie 205",Dotacje i subwencje
+201,"Dotacja celowa przekazana z budżetu państwa na realizację zadań bieżących z zakresu administracji rządowej oraz innych zadań zleconych gminom (związkom gmin, związkom powiatowo-gminnym) ustawami",Dotacje i subwencje
+202,Dotacja celowa przekazana z budżetu państwa na zadania bieżące realizowane przez gminę na podstawie porozumień z organami administracji rządowej,Dotacje i subwencje
+203,"Dotacja celowa przekazana z budżetu państwa na realizację własnych zadań bieżących gmin (związków gmin, związków powiatowo-gminnych)",Dotacje i subwencje
+204,Dotacja celowa przekazana z budżetu państwa na realizację zadań bieżących gmin z zakresu edukacyjnej opieki wychowawczej finansowanych w całości przez budżet państwa w ramach programów rządowych,Dotacje i subwencje
+205,"Dotacja celowa w ramach programów finansowanych z udziałem środków europejskich oraz środków, o których mowa w art. 5 ust. 3 pkt 5 lit. a i b ustawy, lub płatności w ramach budżetu środków europejskich, realizowanych przez jednostki samorządu terytorialnego",Dotacje i subwencje
+206,"Dotacja celowa przekazana z budżetu państwa na zadania bieżące z zakresu administracji rządowej zlecone gminom (związkom gmin, związkom powiatowo-gminnym), związane z realizacją świadczenia wychowawczego stanowiącego pomoc państwa w wychowywaniu dzieci",Dotacje i subwencje
+207,Dotacja celowa dla jednostki samorządu terytorialnego na realizację własnych zadań bieżących w zakresie pomocy obywatelom Ukrainy Paragraf ten obejmuje dotacje na realizację zadań wynikających z przepisów ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konﬂiktem zbrojnym na terytorium tego państwa.,Dotacje i subwencje
+208,Dotacja celowa dla jednostki samorządu terytorialnego na realizację zadań zleconych z zakresu administracji rządowej w zakresie pomocy obywatelom Ukrainy,Dotacje i subwencje
+209,Dotacja celowa dla pozostałych jednostek sektora finansów publicznych na finansowanie lub dofinansowanie zadań bieżących w zakresie pomocy obywatelom Ukrainy,Dotacje i subwencje
+210,Środki z Funduszu Pomocy na finansowanie lub dofinansowanie zadań bieżących w zakresie pomocy obywatelom Ukrainy dla jednostki sektora finansów publicznych,Dotacje i subwencje
+211,Dotacja celowa przekazana z budżetu państwa na zadania bieżące z zakresu administracji rządowej oraz inne zadania zlecone ustawami realizowane przez powiat,Dotacje i subwencje
+212,Dotacja celowa przekazana z budżetu państwa na zadania bieżące realizowane przez powiat na podstawie porozumień z organami administracji rządowej,Dotacje i subwencje
+213,Dotacja celowa przekazana z budżetu państwa na realizację bieżących zadań własnych powiatu,Dotacje i subwencje
+214,Płatności w ramach budżetu środków europejskich na finansowanie planu rozwojowego.,Dotacje i subwencje
+215,Środki przekazane do funduszu prowadzonego w Banku Gospodarstwa Krajowego na finansowanie lub dofinansowanie zadań bieżących,Dotacje i subwencje
+216,"Dotacja celowa przekazana z budżetu państwa na zadania bieżące z zakresu administracji rządowej zlecone powiatom, związane z realizacją dodatku wychowawczego, dodatku do zryczałtowanej kwoty oraz dodatku w wysokości świadczenia wychowawczego stanowiących pomoc państwa w wychowywaniu dzieci",Dotacje i subwencje
+217,Środki przekazane z państwowych funduszy celowych na realizację zadań bieżących dla jednostek sektora finansów publicznych,Dotacje i subwencje
+218,Środki przekazane z państwowych funduszy celowych na realizację zadań bieżących dla jednostek niezaliczanych do sektora finansów publicznych,Dotacje i subwencje
+219,Rezerwa z budżetu państwa na uzupełnienie dochodów jednostek samorządu terytorialnego,Dotacje i subwencje
+220,Rezerwy,Dotacje i subwencje
+221,Dotacja celowa przekazana z budżetu państwa na zadania bieżące z zakresu administracji rządowej oraz inne zadania zlecone ustawami realizowane przez samorząd województwa,Dotacje i subwencje
+222,Dotacja celowa przekazana z budżetu państwa na zadania bieżące realizowane przez samorząd województwa na podstawie porozumień z organami administracji rządowej,Dotacje i subwencje
+223,Dotacja celowa przekazana z budżetu państwa na realizację bieżących zadań własnych samorządu województwa,Dotacje i subwencje
+224,"Dotacja celowa przekazana z budżetu państwa dla państwowej instytucji kultury na dofinansowanie zadań bieżących objętych mecenatem państwa, wykonywanych w ramach programów ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego przez samorządowe instytucje kultury",Dotacje i subwencje
+225,"Dotacja celowa przekazana z budżetu państwa dla państwowej instytucji kultury na dofinansowanie zadań bieżących objętych mecenatem państwa, wykonywanych w ramach programów ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego przez jednostki niezaliczane do sektora finansów publicznych",Dotacje i subwencje
+226,Dotacja podmiotowa z budżetu dla jednostek systemu szkolnictwa wyższego i nauki niezaliczanych do sektora finansów publicznych,Dotacje i subwencje
+227,Dotacja podmiotowa z budżetu dla jednostek systemu szkolnictwa wyższego i nauki zaliczanych do sektora finansów publicznych,Dotacje i subwencje
+228,Dotacja z budżetu dla instytucji gospodarki budżetowej na pierwsze wyposażenie w środki obrotowe,Dotacje i subwencje
+229,Wpłata do budżetu nadwyżki środków finansowych przez agencję wykonawczą,Dotacje i subwencje
+230,Wpłaty jednostek na państwowy fundusz celowy,Dotacje i subwencje
+231,Dotacja celowa przekazana gminie na zadania bieżące realizowane na podstawie porozumień (umów) między jednostkami samorządu terytorialnego,Dotacje i subwencje
+232,Dotacja celowa przekazana dla powiatu na zadania bieżące realizowane na podstawie porozumień (umów) między jednostkami samorządu terytorialnego,Dotacje i subwencje
+233,Dotacja celowa przekazana do samorządu województwa na zadania bieżące realizowane na podstawie porozumień (umów) między jednostkami samorządu terytorialnego,Dotacje i subwencje
+234,Dotacja celowa dla jednostki spoza sektora finansów publicznych na finansowanie lub dofinansowanie zadań bieżących związanych z pomocą obywatelom Ukrainy,Dotacje i subwencje
+235,Środki z Funduszu Pomocy na finansowanie lub dofinansowanie zadań bieżących w zakresie pomocy obywatelom Ukrainy dla jednostki spoza sektora finansów publicznych,Dotacje i subwencje
+236,"Dotacja celowa z budżetu jednostki samorządu terytorialnego, udzielone w trybie art. 221 ustawy, na finansowanie lub dofinansowanie zadań zleconych do realizacji organizacjom prowadzącym działalność pożytku publicznego",Dotacje i subwencje
+237,Wpłata do budżetu nadwyżki środków obrotowych przez samorządowy zakład budżetowy,Dotacje i subwencje
+238,Środki na uzupełnienie dochodów miast na prawach powiatu,Dotacje i subwencje
+239,Wpłata do budżetu zysku przez instytucję gospodarki budżetowej,Dotacje i subwencje
+240,Wpłata do budżetu pozostałości środków finansowych gromadzonych na wydzielonym rachunku jednostki budżetowej,Dotacje i subwencje
+241,Dotacja z budżetu jednostki samorządu terytorialnego dla samorządowego zakładu budżetowego na pierwsze wyposażenie w środki obrotowe,Dotacje i subwencje
+242,Wpłaty dokonywane przez fundusze celowe do budżetu państwa,Dotacje i subwencje
+243,Dotacja z budżetu dla państwowego funduszu celowego,Dotacje i subwencje
+244,Dotacja przekazana z państwowego funduszu celowego na realizację zadań bieżących dla jednostek sektora finansów publicznych,Dotacje i subwencje
+245,Dotacja przekazana z państwowego funduszu celowego na realizację zadań bieżących dla jednostek niezaliczanych do sektora finansów publicznych,Dotacje i subwencje
+246,Wpłaty przekazane przez pozostałe jednostki zaliczane do sektora finansów publicznych na realizację zadań bieżących dla jednostek zaliczanych do sektora finansów publicznych,Dotacje i subwencje
+247,Wpłaty przekazane przez pozostałe jednostki zaliczane do sektora finansów publicznych na realizację zadań bieżących dla jednostek niezaliczanych do sektora finansów publicznych,Dotacje i subwencje
+248,Dotacja podmiotowa z budżetu dla samorządowej instytucji kultury,Dotacje i subwencje
+249,Dotacja podmiotowa z budżetu dla samodzielnego publicznego zakładu opieki zdrowotnej utworzonego przez organ administracji rządowej lub państwową uczelnię,Dotacje i subwencje
+250,"Subwencje z budżetu dla podmiotów systemu szkolnictwa wyższego i nauki, niezaliczanych do sektora finansów publicznych",Dotacje i subwencje
+251,Dotacja podmiotowa z budżetu dla samorządowego zakładu budżetowego,Dotacje i subwencje
+252,"Subwencje z budżetu dla podmiotów systemu szkolnictwa wyższego i nauki, zaliczanych do sektora finansów publicznych",Dotacje i subwencje
+253,Środki na finansowanie lub dofinansowanie zadań bieżących w zakresie pomocy obywatelom Ukrainy,Dotacje i subwencje
+254,Dotacja podmiotowa z budżetu dla niepublicznej jednostki systemu oświaty,Dotacje i subwencje
+255,Dotacja podmiotowa z budżetu dla państwowej instytucji kultury,Dotacje i subwencje
+256,Dotacja z budżetu dla samodzielnego publicznego zakładu opieki zdrowotnej utworzonego przez jednostkę samorządu terytorialnego,Dotacje i subwencje
+257,Dotacja podmiotowa z budżetu dla pozostałych jednostek sektora finansów publicznych,Dotacje i subwencje
+258,Dotacja podmiotowa z budżetu dla jednostek niezaliczanych do sektora finansów publicznych,Dotacje i subwencje
+259,Dotacja podmiotowa z budżetu dla publicznej jednostki systemu oświaty prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub przez osobę fizyczną,Dotacje i subwencje
+260,Dotacja celowa z budżetu dla Funduszu Kredytów Studenckich,Dotacje i subwencje
+261,Środki przekazane przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej na finansowanie funkcjonowania systemu handlu uprawnieniami do emisji,Dotacje i subwencje
+262,Dotacja przedmiotowa z budżetu dla pozostałych jednostek sektora finansów publicznych,Dotacje i subwencje
+263,Dotacja przedmiotowa z budżetu dla jednostek niezaliczanych do sektora finansów publicznych,Dotacje i subwencje
+264,Dotacja celowa przekazana z budżetu jednostki samorządu terytorialnego dla samorządowego zakładu budżetowego na zadania bieżące,Dotacje i subwencje
+265,Dotacja przedmiotowa z budżetu dla samorządowego zakładu budżetowego,Dotacje i subwencje
+266,Środki przekazane przez jednostki samorządu terytorialnego na finansowanie lub dofinansowanie zadań na podstawie odrębnych przepisów,Dotacje i subwencje
+267,Dotacja celowa na finansowanie lub dofinansowanie ustawowo określonych zadań bieżących realizowanych przez jednostki niezaliczane do sektora finansów publicznych,Dotacje i subwencje
+268,Rekompensaty utraconych dochodów w podatkach i opłatach lokalnych,Dotacje i subwencje
+269,Środki Funduszu Pracy przekazane na realizację zadań wynikających z odrębnych ustaw,Dotacje i subwencje
+270,Subwencje dla par i politycznych,Dotacje i subwencje
+271,Dotacja celowa na pomoc finansową udzielaną między jednostkami samorządu terytorialnego na dofinansowanie własnych zadań bieżących,Dotacje i subwencje
+272,Dotacja celowa z budżetu na finansowanie lub dofinansowanie prac remontowych i konserwatorskich obiektów zabytkowych przekazane jednostkom niezaliczanym do sektora finansów publicznych,Dotacje i subwencje
+273,"Dotacja celowa z budżetu na finansowanie lub dofinansowanie prac remontowych i konserwatorskich obiektów zabytkowych, przekazane jednostkom zaliczanym do sektora finansów publicznych",Dotacje i subwencje
+274,Pomoc zagraniczna,Dotacje i subwencje
+275,Środki na uzupełnienie dochodów gmin,Dotacje i subwencje
+276,Środki na uzupełnienie dochodów powiatów,Dotacje i subwencje
+277,Środki na uzupełnienie dochodów województw,Dotacje i subwencje
+278,Dotacja celowa przekazana z budżetu jednostki samorządu terytorialnego na dofinansowanie realizacji zadań w zakresie programów polityki zdrowotnej,Dotacje i subwencje
+280,Dotacja celowa z budżetu dla pozostałych jednostek zaliczanych do sektora finansów publicznych,Dotacje i subwencje
+281,Dotacja celowa z budżetu na finansowanie lub dofinansowanie zadań zleconych do realizacji fundacjom,Dotacje i subwencje
+282,Dotacja celowa z budżetu na finansowanie lub dofinansowanie zadań zleconych do realizacji stowarzyszeniom,Dotacje i subwencje
+283,Dotacja celowa z budżetu na finansowanie lub dofinansowanie zadań zleconych do realizacji pozostałym jednostkom niezaliczanym do sektora finansów publicznych,Dotacje i subwencje
+284,Dotacja celowa z budżetu państwa na finansowanie lub dofinansowanie ustawowo określonych zadań bieżących realizowanych przez pozostałe jednostki sektora finansów publicznych,Dotacje i subwencje
+285,"Wpłaty gmin na rzecz izb rolniczych w wysokości 2 % uzyskanych wpływów z podatku rolnego oraz kwoty w wysokości 1,5 % należnego podatku rolnego na rzecz wybranego przez podatnika podmiotu uprawnionego",Dotacje i subwencje
+286,Dotacja z budżetu państwa stanowiąca zwrot kosztów obsługi świadczeń zleconych do wypłaty Zakładowi Ubezpieczeń Społecznych i Kasie Rolniczego Ubezpieczenia Społecznego oraz dotacja dla Funduszu Kościelnego,Dotacje i subwencje
+287,Dotacja z budżetu państwa dla gmin uzdrowiskowych,Dotacje i subwencje
+288,Dotacja celowa przekazana jednostce samorządu terytorialnego przez inną jednostkę samorządu terytorialnego będącą instytucją wdrażającą na zadania bieżące realizowane na podstawie porozumień (umów),Dotacje i subwencje
+289,Środki Funduszu Promocji Kultury przekazane Polskiemu Instytutowi Sztuki Filmowej na realizację zadań bieżących,Dotacje i subwencje
+290,"Wpłaty gmin i powiatów na rzecz innych jednostek samorządu terytorialnego oraz związków gmin, związków powiatowo-gminnych, związków powiatów, związków metropolitalnych na dofinansowanie zadań bieżących",Dotacje i subwencje
+291,"Zwrot dotacji oraz płatności wykorzystanych niezgodnie z przeznaczeniem lub wykorzystanych z naruszeniem procedur, o których mowa w art. 184 ustawy, pobranych nienależnie lub w nadmiernej wysokości",Dotacje i subwencje
+292,Subwencje ogólne z budżetu państwa,Dotacje i subwencje
+293,Wpłaty jednostek samorządu terytorialnego do budżetu państwa,Dotacje i subwencje
+294,Zwrot do budżetu państwa nienależnie pobranej subwencji ogólnej za lata poprzednie,Dotacje i subwencje
+295,Zwrot niewykorzystanych dotacji oraz płatności,Dotacje i subwencje
+296,Przelewy redystrybucyjne,Dotacje i subwencje
+297,Różne przelewy,Dotacje i subwencje
+298,Pozostałe rozliczenia z bankami,Dotacje i subwencje
+299,Wpłata do budżetu nadwyżek środków znajdujących się na rachunkach państwowych funduszy celowych tworzonych z przychodów z prywatyzacji,Dotacje i subwencje
+302,Wydatki osobowe niezaliczone do wynagrodzeń,Świadczenia na rzecz osób fizycznych
+303,Różne wydatki na rzecz osób fizycznych,Świadczenia na rzecz osób fizycznych
+304,Nagrody o charakterze szczególnym niezaliczone do wynagrodzeń,Świadczenia na rzecz osób fizycznych
+305,Zasądzone renty,Świadczenia na rzecz osób fizycznych
+307,Wydatki osobowe niezaliczone do uposażeń wypłacane żołnierzom i funkcjonariuszom,Świadczenia na rzecz osób fizycznych
+311,Świadczenia społeczne,Świadczenia na rzecz osób fizycznych
+312,Dodatkowe roczne świadczenie pieniężne oraz kolejne dodatkowe roczne świadczenie pieniężne dla emerytów i rencistów,Świadczenia na rzecz osób fizycznych
+320,Rezerwy,Świadczenia na rzecz osób fizycznych
+321,Stypendia i zasiłki dla studentów,Świadczenia na rzecz osób fizycznych
+324,Stypendia dla uczniów,Świadczenia na rzecz osób fizycznych
+325,Stypendia różne,Świadczenia na rzecz osób fizycznych
+326,Inne formy pomocy dla uczniów,Świadczenia na rzecz osób fizycznych
+327,Środki Funduszu Pracy na pracownicze plany kapitałowe,Świadczenia na rzecz osób fizycznych
+328,Świadczenia związane z udzielaniem pomocy obywatelom Ukrainy,Świadczenia na rzecz osób fizycznych
+329,Świadczenia społeczne wypłacane obywatelom Ukrainy przebywającym na terytorium RP,Świadczenia na rzecz osób fizycznych
+400,Grupa wydatków bieżących jednostki,Wydatki bieżące jednostek budżetowych
+401,Wynagrodzenia osobowe pracowników,Wydatki bieżące jednostek budżetowych
+402,Wynagrodzenia osobowe członków korpusu służby cywilnej,Wydatki bieżące jednostek budżetowych
+403,Wynagrodzenia osobowe sędziów i prokuratorów oraz asesorów i aplikantów,Wydatki bieżące jednostek budżetowych
+404,Dodatkowe wynagrodzenie roczne,Wydatki bieżące jednostek budżetowych
+405,Uposażenia żołnierzy zawodowych oraz funkcjonariuszy,Wydatki bieżące jednostek budżetowych
+406,Inne należności żołnierzy zawodowych oraz funkcjonariuszy zaliczane do wynagrodzeń,Wydatki bieżące jednostek budżetowych
+407,Dodatkowe uposażenie roczne dla żołnierzy zawodowych oraz nagrody roczne dla funkcjonariuszy,Wydatki bieżące jednostek budżetowych
+408,Uposażenia i świadczenia pieniężne wypłacane przez okres roku żołnierzom i funkcjonariuszom zwolnionym ze służby,Wydatki bieżące jednostek budżetowych
+409,Honoraria,Wydatki bieżące jednostek budżetowych
+410,Wynagrodzenia agencyjno-prowizyjne,Wydatki bieżące jednostek budżetowych
+411,Składki na ubezpieczenia społeczne,Wydatki bieżące jednostek budżetowych
+412,Składki na Fundusz Pracy oraz Fundusz Solidarnościowy,Wydatki bieżące jednostek budżetowych
+413,Składki na ubezpieczenie zdrowotne,Wydatki bieżące jednostek budżetowych
+414,Wpłaty na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych,Wydatki bieżące jednostek budżetowych
+415,Dopłaty w spółkach prawa handlowego,Wydatki bieżące jednostek budżetowych
+416,Pokrycie ujemnego wyniku finansowego jednostek zaliczanych do sektora finansów publicznych,Wydatki bieżące jednostek budżetowych
+417,Wynagrodzenia bezosobowe,Wydatki bieżące jednostek budżetowych
+418,Równoważniki pieniężne i ekwiwalenty dla żołnierzy i funkcjonariuszy oraz pozostałe należności,Wydatki bieżące jednostek budżetowych
+419,Nagrody konkursowe,Wydatki bieżące jednostek budżetowych
+420,Fundusz operacyjny,Wydatki bieżące jednostek budżetowych
+423,"Zakup leków, wyrobów medycznych i produktów biobójczych",Wydatki bieżące jednostek budżetowych
+424,Zakup środków dydaktycznych i książek,Wydatki bieżące jednostek budżetowych
+425,Zakup sprzętu i uzbrojenia,Wydatki bieżące jednostek budżetowych
+427,Zakup usług remontowych,Wydatki bieżące jednostek budżetowych
+429,Zakup świadczeń zdrowotnych dla osób nieobjętych obowiązkiem ubezpieczenia zdrowotnego,Wydatki bieżące jednostek budżetowych
+431,Realizacja zleconych programów poręczeniowo-gwarancyjnych i wspierania eksportu,Wydatki bieżące jednostek budżetowych
+432,Staże i specjalizacje medyczne,Wydatki bieżące jednostek budżetowych
+433,Zakup usług przez jednostki samorządu terytorialnego od innych jednostek samorządu terytorialnego,Wydatki bieżące jednostek budżetowych
+435,"Zakup towarów (w szczególności materiałów, leków, żywności) w związku z pomocą obywatelom Ukrainy 436 (NIE) Opłaty z tytułu zakupu usług telekomunikacyjnych",Wydatki bieżące jednostek budżetowych
+437,Zakup usług związanych z pomocą obywatelom Ukrainy,Wydatki bieżące jednostek budżetowych
+441,Podróże służbowe krajowe,Wydatki bieżące jednostek budżetowych
+442,Podróże służbowe zagraniczne,Wydatki bieżące jednostek budżetowych
+443,Różne opłaty i składki,Wydatki bieżące jednostek budżetowych
+444,Odpisy na zakładowy fundusz świadczeń socjalnych,Wydatki bieżące jednostek budżetowych
+445,Udzielone pożyczki na zaspokojenie potrzeb mieszkaniowych sędziów i prokuratorów,Wydatki bieżące jednostek budżetowych
+446,Podatek dochodowy od osób prawnych,Wydatki bieżące jednostek budżetowych
+447,Cła,Wydatki bieżące jednostek budżetowych
+448,Podatek od nieruchomości,Wydatki bieżące jednostek budżetowych
+449,Pozostałe podatki na rzecz budżetu państwa,Wydatki bieżące jednostek budżetowych
+450,Pozostałe podatki na rzecz budżetów jednostek samorządu terytorialnego,Wydatki bieżące jednostek budżetowych
+451,Opłaty na rzecz budżetu państwa,Wydatki bieżące jednostek budżetowych
+452,Opłaty na rzecz budżetów jednostek samorządu terytorialnego,Wydatki bieżące jednostek budżetowych
+453,Podatek od towarów i usług (VAT),Wydatki bieżące jednostek budżetowych
+454,Składki do organizacji międzynarodowych,Wydatki bieżące jednostek budżetowych
+455,Szkolenia członków korpusu służby cywilnej,Wydatki bieżące jednostek budżetowych
+456,"Odsetki od dotacji oraz płatności: wykorzystanych niezgodnie z przeznaczeniem lub wykorzystanych z naruszeniem procedur, o których mowa w art. 184 ustawy, pobranych nienależnie lub w nadmiernej wysokości",Wydatki bieżące jednostek budżetowych
+457,Odsetki od nieterminowych wpłat z tytułu pozostałych podatków i opłat,Wydatki bieżące jednostek budżetowych
+458,Pozostałe odsetki,Wydatki bieżące jednostek budżetowych
+459,Kary i odszkodowania wypłacane na rzecz osób fizycznych,Wydatki bieżące jednostek budżetowych
+460,"Kary, odszkodowania i grzywny wypłacane na rzecz osób prawnych i innych jednostek organizacyjnych",Wydatki bieżące jednostek budżetowych
+461,Koszty postępowania sądowego i prokuratorskiego,Wydatki bieżące jednostek budżetowych
+462,Umorzenie należności agencji płatniczych,Wydatki bieżące jednostek budżetowych
+463,Rozliczenie wydatków agencji płatniczych związanych z interwencją rynkową w ramach Wspólnej Polityki Rolnej,Wydatki bieżące jednostek budżetowych
+464,"Wydatki egzekucyjne poniesione w postępowaniu egzekucyjnym wszczętym i prowadzonym na poczet należności objętych wnioskiem obcego państwa, nieściągnięte od zobowiązanego",Wydatki bieżące jednostek budżetowych
+465,Odsetki od nieterminowych wpłat podatku dochodowego od osób prawnych,Wydatki bieżące jednostek budżetowych
+466,Odsetki od nieterminowych wpłat ceł,Wydatki bieżące jednostek budżetowych
+467,Odsetki od nieterminowych wpłat podatku od nieruchomości,Wydatki bieżące jednostek budżetowych
+468,Odsetki od nieterminowych wpłat podatku od towarów i usług (VAT),Wydatki bieżące jednostek budżetowych
+469,"Składki do organizacji międzynarodowych, w których uczestnictwo związane jest z członkostwem w Unii Europejskiej",Wydatki bieżące jednostek budżetowych
+470,Szkolenia pracowników niebędących członkami korpusu służby cywilnej,Wydatki bieżące jednostek budżetowych
+471,Wpłaty na PPK finansowane przez podmiot zatrudniający,Wydatki bieżące jednostek budżetowych
+472,Amortyzacja,Wydatki bieżące jednostek budżetowych
+474,Wynagrodzenia i uposażenia wypłacane w związku z pomocą obywatelom Ukrainy,Wydatki bieżące jednostek budżetowych
+475,Wynagrodzenia nauczycieli wypłacane w związku z pomocą obywatelom Ukrain.,Wydatki bieżące jednostek budżetowych
+477,Rekompensata dla pracodawcy zatrudniającego żołnierza niezawodowego,Wydatki bieżące jednostek budżetowych
+478,Składki na Fundusz Emerytur Pomostowych,Wydatki bieżące jednostek budżetowych
+479,Wynagrodzenia osobowe nauczycieli,Wydatki bieżące jednostek budżetowych
+480,Dodatkowe wynagrodzenie roczne nauczycieli,Wydatki bieżące jednostek budżetowych
+481,Rezerwy,Wydatki bieżące jednostek budżetowych
+483,Równoważniki pieniężne i ekwiwalenty dla żołnierzy i funkcjonariuszy oraz pozostałe należności wypłacane w związku z pomocą obywatelom Ukrainy,Wydatki bieżące jednostek budżetowych
+484,"Honoraria, wynagrodzenia agencyjno-prowizyjne i wynagrodzenia bezosobowe wypłacane w związku z pomocą obywatelom Ukrainy",Wydatki bieżące jednostek budżetowych
+485,Składki i inne pochodne od wynagrodzeń pracowników wypłacanych w związku z pomocą obywatelom Ukrainy,Wydatki bieżące jednostek budżetowych
+486,Pozostałe wydatki bieżące na zadania związane z pomocą obywatelom Ukrainy,Wydatki bieżące jednostek budżetowych
+487,Darowizny przekazane na realizację zadań bieżących,Wydatki bieżące jednostek budżetowych
+488,Pokrycie przejętych zobowiązań po likwidowanym instytucie badawczym,Wydatki bieżące jednostek budżetowych
+489,Pokrycie przejętych zobowiązań po likwidowanych jednostkach zaliczanych do sektora finansów publicznych,Wydatki bieżące jednostek budżetowych
+490,Pokrycie zobowiązań zakładów opieki zdrowotnej,Wydatki bieżące jednostek budżetowych
+491,Pokrycie przejętych zobowiązań po przekształcanych jednostkach zaliczanych do sektora finansów publicznych,Wydatki bieżące jednostek budżetowych
+492,"Spłata zobowiązań jednostek samorządu terytorialnego zaliczanych do tytułu dłużnego - kredyty i pożyczki, o którym mowa w art. 72 ust. 1 pkt 2 ustawy",Wydatki bieżące jednostek budżetowych
+493,Wydatki państwowego funduszu celowego na cele związane z zaspokojeniem roszczeń byłych właścicieli mienia przejętego przez Skarb Państwa oraz usuwaniem skutków prawnych decyzji reprywatyzacyjnych wydanych z naruszeniem prawa,Wydatki bieżące jednostek budżetowych
+495,Różnice kursowe,Wydatki bieżące jednostek budżetowych
+496,Stałe zaliczki do rozliczenia udzielone placówkom polskim za granicą,Wydatki bieżące jednostek budżetowych
+497,Nierozliczone środki budżetowe przekazane jednostkom budżetowym mającym siedziby poza granicami Rzeczypospolitej Polskiej oraz jednostkom wojskowym poza granicami państwa na finansowanie wydatków,Wydatki bieżące jednostek budżetowych
+498,Zwroty dotyczące rozliczeń z Komisją Europejską oraz z państwami członkowskimi Europejskiego Porozumienia o Wolnym Handlu (EFTA),Wydatki bieżące jednostek budżetowych
+601,Wydatki na zakup i objęcie akcji i udziałów,Wydatki majątkowe
+602,Wydatki na wniesienie wkładów do spółdzielni,Wydatki majątkowe
+603,Wniesienie wkładów do spółek prawa handlowego oraz na uzupełnienie funduszy statutowych banków państwowych i innych instytucji finansowych,Wydatki majątkowe
+605,Wydatki inwestycyjne jednostek budżetowych,Wydatki majątkowe
+606,Wydatki na zakupy inwestycyjne jednostek budżetowych,Wydatki majątkowe
+607,Wydatki inwestycyjne samorządowych zakładów budżetowych,Wydatki majątkowe
+608,Wydatki na zakupy inwestycyjne samorządowych zakładów budżetowych,Wydatki majątkowe
+610,Wydatki jednostek na zadania inwestycyjne realizowane ze środków otrzymanych z Rządowego Funduszu Inwestycji Lokalnych,Wydatki majątkowe
+611,Wydatki inwestycyjne państwowych funduszy celowych,Wydatki majątkowe
+612,Wydatki na zakupy inwestycyjne państwowych funduszy celowych,Wydatki majątkowe
+613,Wydatki inwestycyjne pozostałych jednostek,Wydatki majątkowe
+614,Wydatki na zakupy inwestycyjne pozostałych jednostek,Wydatki majątkowe
+615,"Wydatki majątkowe jednostek samorządu terytorialnego na spłatę zobowiązań zaliczanych do tytułu dłużnego - kredyty i pożyczki, o którym mowa w art. 72 ust. 1 pkt 2 ustawy",Wydatki majątkowe
+616,Wydatki na współfinansowanie programów inwestycyjnych NATO i UE,Wydatki majątkowe
+617,Wpłaty jednostek na państwowy fundusz celowy na finansowanie lub dofinansowanie zadań inwestycyjnych,Wydatki majątkowe
+619,"Dotacja celowa z budżetu jednostki samorządu terytorialnego, udzielona w trybie art. 221 ustawy, na dofinansowanie inwestycji w ramach zadań zleconych do realizacji organizacjom prowadzącym działalność pożytku publicznego",Wydatki majątkowe
+620,"Dotacja celowa w ramach programów finansowanych z udziałem środków europejskich oraz środków, o których mowa w art. 5 ust. 1 pkt 3 oraz ust. 3 pkt 5 i 6 ustawy, lub płatności w ramach budżetu środków europejskich, z wyłączeniem wydatków klasyfikowanych w paragrafie 625",Wydatki majątkowe
+621,Dotacja celowa z budżetu na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych samorządowych zakładów budżetowych,Wydatki majątkowe
+622,Dotacja celowa z budżetu na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych innych jednostek sektora finansów publicznych,Wydatki majątkowe
+623,Dotacja celowa z budżetu na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek niezaliczanych do sektora finansów publicznych,Wydatki majątkowe
+625,"Dotacja celowa w ramach programów finansowanych z udziałem środków europejskich oraz środków, o których mowa w art. 5 ust. 3 pkt 5 lit. a i b ustawy, lub płatności w ramach budżetu środków europejskich, realizowanych przez jednostki samorządu terytorialnego",Wydatki majątkowe
+626,Dotacja z państwowego funduszu celowego na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek sektora finansów publicznych,Wydatki majątkowe
+627,Dotacja z państwowego funduszu celowego na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek niezaliczanych do sektora finansów publicznych,Wydatki majątkowe
+628,Środki przekazane przez pozostałe jednostki zaliczane do sektora finansów publicznych na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek zaliczanych do sektora finansów publicznych,Wydatki majątkowe
+629,Środki przekazane przez pozostałe jednostki zaliczane do sektora finansów publicznych na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek niezaliczanych do sektora finansów publicznych,Wydatki majątkowe
+630,Dotacja celowa na pomoc finansową udzielaną między jednostkami samorządu terytorialnego na dofinansowanie własnych zadań inwestycyjnych i zakupów inwestycyjnych,Wydatki majątkowe
+631,Dotacja celowa przekazana z budżetu państwa na inwestycje i zakupy inwestycyjne z zakresu administracji rządowej oraz innych zadań zleconych gminom ustawami,Wydatki majątkowe
+632,Dotacja celowa przekazana z budżetu państwa na inwestycje i zakupy inwestycyjne realizowane przez gminę na podstawie porozumień z organami administracji rządowej,Wydatki majątkowe
+633,"Dotacja celowa przekazana z budżetu państwa na realizację inwestycji i zakupów inwestycyjnych własnych gmin (związków gmin, związków powiatowo-gminnych)",Wydatki majątkowe
+634,"Dotacja celowa przekazana z budżetu państwa na inwestycje i zakupy inwestycyjne z zakresu administracji rządowej zlecone gminom (związkom gmin, związkom powiatowo-gminnym), związane z realizacją świadczenia wychowawczego stanowiącego pomoc państwa w wychowywaniu dzieci",Wydatki majątkowe
+635,Środki z państwowych funduszy celowych na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek sektora finansów publicznych,Wydatki majątkowe
+636,Środki z państwowych funduszy celowych na finansowanie lub dofinansowanie kosztów realizacji inwestycji i zakupów inwestycyjnych jednostek niezaliczanych do sektora finansów publicznych,Wydatki majątkowe
+637,Wydatki jednostek poniesione ze środków z Rządowego Funduszu Polski Ład: Program Inwestycji Strategicznych na realizację zadań inwestycyjnych,Wydatki majątkowe
+638,Środki z Funduszu Pomocy na finansowanie lub dofinansowanie inwestycji i zakupów inwestycyjnych w zakresie pomocy obywatelom Ukrainy dla jednostki sektora finansów publicznych,Wydatki majątkowe
+639,Środki na finansowanie lub dofinansowanie inwestycji i zakupów inwestycyjnych w zakresie pomocy obywatelom Ukrainy,Wydatki majątkowe
+640,Darowizny przekazane na realizację zadań inwestycyjnych,Wydatki majątkowe
+641,Dotacja celowa przekazana z budżetu państwa na inwestycje i zakupy inwestycyjne z zakresu administracji rządowej oraz inne zadania zlecone ustawami realizowane przez powiat,Wydatki majątkowe
+642,Dotacja celowa przekazana z budżetu państwa na inwestycje i zakupy inwestycyjne realizowane przez powiat na podstawie porozumień z organami administracji rządowej,Wydatki majątkowe
+643,Dotacja celowa przekazana z budżetu państwa na realizację inwestycji i zakupów inwestycyjnych własnych powiatu,Wydatki majątkowe
+644,"Dotacja celowa przekazana z budżetu państwa na inwestycje i zakupy inwestycyjne z zakresu administracji rządowej zlecone powiatom, związane z realizacją dodatku wychowawczego, dodatku do zryczałtowanej kwoty oraz dodatku w wysokości świadczenia wychowawczego stanowiących pomoc państwa w wychowywaniu dzieci",Wydatki majątkowe
+646,Środki z Funduszu Pomocy na finansowanie lub dofinansowanie inwestycji i zakupów inwestycyjnych w zakresie pomocy obywatelom Ukrainy dla jednostki spoza sektora finansów publicznych,Wydatki majątkowe
+647,Dotacja celowa dla jednostki spoza sektora finansów publicznych na finansowanie lub dofinansowanie inwestycji i zakupów inwestycyjnych związanych z pomocą obywatelom Ukrainy,Wydatki majątkowe
+648,Wydatki na inwestycje związane z pomocą obywatelom Ukrainy,Wydatki majątkowe
+649,Wydatki na zakupy inwestycyjne związane z pomocą obywatelom Ukrainy,Wydatki majątkowe
+651,Dotacja celowa przekazana z budżetu państwa na inwestycje i zakupy inwestycyjne z zakresu administracji rządowej oraz inne zadania zlecone ustawami realizowane przez samorząd województwa,Wydatki majątkowe
+652,Dotacja celowa przekazana z budżetu państwa na inwestycje i zakupy inwestycyjne realizowane przez samorząd województwa na podstawie porozumień z organami administracji rządowej,Wydatki majątkowe
+653,Dotacja celowa przekazana z budżetu państwa na realizację inwestycji i zakupów inwestycyjnych własnych samorządu województwa,Wydatki majątkowe
+654,"Dotacja celowa przekazana z budżetu państwa dla państwowej instytucji kultury na dofinansowanie zadań inwestycyjnych objętych mecenatem państwa, wykonywanych w ramach programów ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego przez samorządowe instytucje kultury",Wydatki majątkowe
+655,"Dotacja celowa przekazana z budżetu państwa dla państwowej instytucji kultury na dofinansowanie zadań inwestycyjnych objętych mecenatem państwa, wykonywanych w ramach programów ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego przez jednostki niezaliczane do sektora finansów publicznych",Wydatki majątkowe
+656,Dotacja celowa przekazana z budżetu na finansowanie lub dofinansowanie zadań inwestycyjnych obiektów zabytkowych jednostkom zaliczanym do sektora finansów publicznych,Wydatki majątkowe
+657,Dotacja celowa przekazana z budżetu na finansowanie lub dofinansowanie zadań inwestycyjnych obiektów zabytkowych jednostkom niezaliczanym do sektora finansów publicznych,Wydatki majątkowe
+658,Wydatki inwestycyjne dotyczące obiektów zabytkowych będących w użytkowaniu jednostek budżetowych,Wydatki majątkowe
+659,Środki przekazane przez jednostki samorządu terytorialnego na finansowanie lub dofinansowanie zadań inwestycyjnych na podstawie odrębnych przepisów,Wydatki majątkowe
+661,Dotacja celowa przekazana gminie na inwestycje i zakupy inwestycyjne realizowane na podstawie porozumień (umów) między jednostkami samorządu terytorialnego,Wydatki majątkowe
+662,Dotacja celowa przekazana dla powiatu na inwestycje i zakupy inwestycyjne realizowane na podstawie porozumień (umów) między jednostkami samorządu terytorialnego,Wydatki majątkowe
+663,Dotacja celowa przekazana do samorządu województwa na inwestycje i zakupy inwestycyjne realizowane na podstawie porozumień (umów) między jednostkami samorządu terytorialnego,Wydatki majątkowe
+664,Dotacja celowa przekazana jednostce samorządu terytorialnego przez inną jednostkę samorządu terytorialnego będącą instytucją wdrażającą na inwestycje i zakupy inwestycyjne realizowane na podstawie porozumień (umów),Wydatki majątkowe
+665,"Wpłaty gmin i powiatów na rzecz innych jednostek samorządu terytorialnego oraz związków gmin, związków powiatowo-gminnych lub związków powiatów na dofinansowanie zadań inwestycyjnych i zakupów inwestycyjnych",Wydatki majątkowe
+666,"Zwroty dotacji oraz płatności wykorzystanych niezgodnie z przeznaczeniem lub wykorzystanych z naruszeniem procedur, o których mowa w art. 184 ustawy, pobranych nienależnie lub w nadmiernej wysokości, dotyczące wydatków majątkowych",Wydatki majątkowe
+667,Środki Funduszu Promocji Kultury przekazane Polskiemu Instytutowi Sztuki Filmowej na realizację zadań inwestycyjnych,Wydatki majątkowe
+668,Środki przekazane do funduszu prowadzonego w Banku Gospodarstwa Krajowego na finansowanie lub dofinansowanie inwestycji i zakupów inwestycyjnych,Wydatki majątkowe
+669,"Zwroty niewykorzystanych dotacji oraz płatności, dotyczące wydatków majątkowych",Wydatki majątkowe
+670,Dotacja celowa dla jednostki samorządu terytorialnego na finansowanie lub dofinansowanie własnych zadań inwestycyjnych i zakupów inwestycyjnych w zakresie pomocy obywatelom Ukrainy,Wydatki majątkowe
+671,Dotacja celowa dla jednostki samorządu terytorialnego na inwestycje i zakupy inwestycyjne z zakresu administracji rządowej w zakresie pomocy obywatelom Ukrainy,Wydatki majątkowe
+672,Dotacja celowa dla pozostałych jednostek sektora finansów publicznych na finansowanie lub dofinansowanie inwestycji i zakupów inwestycyjnych w zakresie pomocy obywatelom Ukrainy,Wydatki majątkowe
+673,Dotacja na zadania inwestycyjne realizowane ze środków otrzymanych z Rządowego Funduszu Polski Ład: Program Inwestycji Strategicznych przez jednostki z sektora finansów publicznych,Wydatki majątkowe
+674,Dotacja na zadania inwestycyjne realizowane ze środków otrzymanych z Rządowego Funduszu Polski Ład: Program Inwestycji Strategicznych przez jednostki niezaliczane do sektora finansów publicznych,Wydatki majątkowe
+675,Dotacja na zadania inwestycyjne realizowane ze środków otrzymanych z Rządowego Funduszu Inwestycji Lokalnych przez jednostki z sektora finansów publicznych,Wydatki majątkowe
+676,Dotacja na zadania inwestycyjne realizowane ze środków otrzymanych z Rządowego Funduszu Inwestycji Lokalnych przez jednostki niezaliczane do sektora finansów publicznych,Wydatki majątkowe
+680,Rezerwy na inwestycje i zakupy inwestycyjne,Wydatki majątkowe
+681,Środki na uzupełnienie dochodów gmin,Wydatki majątkowe
+682,Środki na uzupełnienie dochodów powiatów,Wydatki majątkowe
+683,Środki na uzupełnienie dochodów województw,Wydatki majątkowe
+684,Środki na uzupełnienie dochodów miast na prawach powiatu,Wydatki majątkowe
+801,Rozliczenia z bankami związane z obsługą długu publicznego,Obsługa długu publicznego
+802,Wypłaty z tytułu zagranicznych poręczeń i gwarancji,Obsługa długu publicznego
+803,Wypłaty z tytułu krajowych poręczeń i gwarancji,Obsługa długu publicznego
+804,"Obsługa zobowiązań jednostek samorządu terytorialnego zaliczanych do tytułu dłużnego - kredyty i pożyczki, o którym mowa w art. 72 ust. 1 pkt 2 ustawy",Obsługa długu publicznego
+806,"Odsetki, dyskonto i inne rozliczenia dotyczące skarbowych papierów wartościowych, kredytów i pożyczek oraz innych instrumentów finansowych, związanych z obsługą długu zagranicznego",Obsługa długu publicznego
+807,"Odsetki, dyskonto i inne rozliczenia dotyczące skarbowych papierów wartościowych, kredytów i pożyczek oraz innych instrumentów finansowych, związanych z obsługą długu krajowego",Obsługa długu publicznego
+808,Koszty emisji skarbowych papierów wartościowych na rynkach zagranicznych oraz inne opłaty i prowizje,Obsługa długu publicznego
+809,Koszty emisji samorządowych papierów wartościowych oraz inne opłaty i prowizje,Obsługa długu publicznego
+810,Koszty emisji skarbowych papierów wartościowych na rynku krajowym oraz inne opłaty i prowizje,Obsługa długu publicznego
+811,Odsetki od samorządowych papierów wartościowych lub zaciągniętych przez jednostkę samorządu terytorialnego kredytów i pożyczek,Obsługa długu publicznego
+812,Odsetki od pożyczek udzielonych przez jednostkę samorządu terytorialnego,Obsługa długu publicznego
+813,Dyskonto od samorządowych papierów wartościowych,Obsługa długu publicznego
+814,Wydatki związane z finansowaniem programu F-16,Obsługa długu publicznego
+850,Rezerwy,Środki własne Unii Europejskiej
+851,Wpłata obliczona na podstawie Dochodu Narodowego Bru o,Środki własne Unii Europejskiej
+852,"Wpłata obliczona, zgodnie z metodologią wynikającą z przepisów Unii Europejskiej, na podstawie podatku od towarów i usług",Środki własne Unii Europejskiej
+853,Wpłata z tytułu udziału w opłatach celnych i opłatach rolnych,Środki własne Unii Europejskiej
+854,Wpłata z tytułu udziału w opłatach cukrowych,Środki własne Unii Europejskiej
+855,Różne rozliczenia finansowe,Środki własne Unii Europejskiej
+856,Wpłata z tytułu finansowania rabatu brytyjskiego,Środki własne Unii Europejskiej
+857,Wpłata z tytułu finansowania obniżki wkładów opartych na Dochodzie Narodowym Bru o,Środki własne Unii Europejskiej
+858,Wpłata obliczona na podstawie masy odpadów opakowaniowych z tworzyw sztucznych niepoddanych recyklingowi,Środki własne Unii Europejskiej

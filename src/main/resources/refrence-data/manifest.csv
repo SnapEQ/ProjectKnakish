@@ -1,0 +1,12 @@
+file,rows,columns
+actions.csv,816,"code,name"
+budget_parts.csv,94,"code,name"
+chapters.csv,704,"code,name"
+expense_groups.csv,7,"code,name,classification_rule"
+financing_sources.csv,10,"code,name"
+functions.csv,21,"code,name"
+paragraphs.csv,295,"code,name"
+sections.csv,33,"code,name"
+subtasks.csv,270,"code,name"
+tasks.csv,89,"code,name"
+manifest.csv,16,"name"

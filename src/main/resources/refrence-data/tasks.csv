@@ -1,0 +1,91 @@
+code,name
+1.1,Obsługa merytoryczna i kancelaryjno-biurowa Prezydenta Rzeczypospolitej Polskiej
+1.2,Obsługa Parlamentu i jego organów w zakresie merytorycznym i organizacyjnym
+1.3,"Obsługa merytoryczna i kancelaryjno-biurowa Prezesa Rady Ministrów, Rady Ministrów i członków Rady Ministrów"
+1.4,Działalność orzecznicza i obsługa Trybunału Konstytucyjnego
+1.5,W Organizacja i przeprowadzanie wyborów
+1.6,Nadzór nad systemem zamówień publicznych
+1.7,"Ocena działalności organów administracji publicznej, Narodowego Banku Polskiego oraz jednostek organizacyjnych wydatkujących środki publiczne z punktu widzenia ustawowych kryteriów NIK"
+1.8,"Ochrona wolności słowa, prawa do informacji oraz interesu publicznego w radiofonii i telewizji"
+1.9,Działalność ustawowa Instytutu Pamięci Narodowej
+1.10,Weryfikacja gospodarki finansowej jednostek samorządu terytorialnego
+1.11,Statystyka publiczna
+2.1,W Ochrona porządku publicznego oraz zwalczanie przestępczości
+2.2,Ściganie przestępstw oraz stanie na straży praworządności przez prokuraturę
+2.3,W System ochrony przeciwpożarowej i ratownictwa oraz ochrona ludności
+2.4,W Zarządzanie kryzysowe oraz przeciwdziałanie i usuwanie skutków klęsk żywiołowych
+2.5,W Bezpieczeństwo granicy zewnętrznej UE i terytorium RP
+3.1,W Oświata i wychowanie
+4.1,W Realizacja należności budżetu państwa
+4.2,W Budżet państwa i realizacja wybranych wydatków
+4.3,Nadzór nad rynkiem finansowym
+4.4,W Zarządzanie mieniem państwowym i ochrona interesów Skarbu Państwa
+4.5,W Roszczenia majątkowe wobec Skarbu Państwa i jst
+4.6,Ochrona praw i interesów Skarbu Państwa
+6.1,W Wsparcie konkurencyjności i innowacyjności gospodarki
+6.2,"W Bezpieczeństwo gospodarcze państwa i gospodarka złożami kopalin, w tym surowcami energetycznymi"
+6.3,W Regulacja i wspieranie rozwoju rynków telekomunikacyjnego i pocztowego oraz infrastruktury telekomunikacyjnej
+6.4,W Wsparcie i promocja turystyki
+6.5,W Ochrona konkurencji i konsumentów
+7.1,W Budownictwo i mieszkalnictwo
+7.2,"Planowanie, zagospodarowanie przestrzenne, rewitalizacja oraz polityka miejska"
+7.3,W Geodezja i kartografia
+8.1,Sport dla wszystkich
+8.2,Sport wyczynowy
+9.1,W Ochrona i popularyzacja dziedzictwa i tożsamości narodowej w kraju i za granicą
+9.2,"W Działalność artystyczna, upowszechniająca, promująca kulturę i dialog międzykulturowy"
+10.1,Zarządzanie systemem szkolnictwa wyższego i nauki
+10.2,Badania naukowe służące praktycznym zastosowaniom
+11.1,Utrzymanie i rozwój zdolności operacyjnych SZ RP
+11.2,Wsparcie wywiadowcze i kontrwywiadowcze
+11.3,Realizacja zobowiązań sojuszniczych i międzynarodowych oraz uczestnictwo w działaniach na rzecz pokoju i stabilizacji międzynarodowej
+11.4,W Gotowość struktur administracyjno-gospodarczych kraju do obrony państwa
+11.5,Wsparcie kierowania obronnością
+12.1,W System ochrony środowiska i informacji o środowisku
+12.2,W Kształtowanie bioróżnorodności
+12.3,W Ochrona powietrza i przeciwdziałanie zmianom klimatu
+12.4,W Gospodarka zasobami i strukturami geologicznymi
+12.5,W Ochrona wód i gospodarowanie zasobami wodnymi
+13.1,W Pomoc i integracja społeczna
+13.2,Świadczenia społeczne
+13.3,"W Sprawy kombatantów, osób represjonowanych, działaczy opozycji antykomunistycznej i osób represjonowanych z powodów politycznych"
+13.4,W Wspieranie rodziny
+13.5,W Ekonomia społeczna
+14.1,W Wspieranie zatrudnienia i przeciwdziałanie bezrobociu
+14.2,Budowa nowoczesnych stosunków i warunków pracy
+14.3,W Wsparcie rozwoju i organizowanie dialogu i partnerstwa społecznego
+15.1,Polityka zagraniczna w wymiarze dwustronnym i wielostronnym
+15.2,"Kształtowanie międzynarodowego wizerunku RP, wspieranie rozwoju, demokracji i praw człowieka"
+15.3,Reprezentowanie i ochrona interesów RP i Polaków za granicą oraz obsługa cudzoziemców
+16.1,W Administracja publiczna i obsługa administracyjna obywatela
+16.2,W Przeciwdziałanie dyskryminacji oraz działania na rzecz mniejszości narodowych i etnicznych
+16.3,W Utrzymanie stosunków między Państwem a Kościołami i innymi związkami wyznaniowymi
+16.4,Ochrona praw obywatelskich i praw dziecka
+16.5,W Informatyzacja działalności i budowa społeczeństwa informacyjnego
+16.6,W Pożytek publiczny i wspieranie rozwoju społeczeństwa obywatelskiego
+17.1,W Wsparcie rozwoju regionalnego kraju
+17.2,W
+18.1,Sprawowanie wymiaru sprawiedliwości przez Sąd Najwyższy
+18.2,Strzeżenie niezależności sądów i niezawisłości sędziów przez Krajową Radę Sądownictwa
+18.3,Sprawowanie wymiaru sprawiedliwości przez sądy powszechne i wojskowe
+18.4,Sprawowanie wymiaru sprawiedliwości przez sądy administracyjne
+18.5,Wykonywanie kary pozbawienia wolności i tymczasowego aresztowania
+18.6,Przeciwdziałanie demoralizacji i przestępczości wśród nieletnich i tworzenie warunków do powrotu nieletnich do normalnego życia
+18.7,W Wsparcie wymiaru sprawiedliwości oraz obrotu gospodarczego
+19.1,W Transport drogowy i infrastruktura drogowa
+19.2,Transport kolejowy i infrastruktura kolejowa
+19.3,Transport morski i żegluga śródlądowa
+19.4,Transport lotniczy i infrastruktura lotnicza
+19.5,W Wspieranie zrównoważonego rozwoju transportu
+20.1,W System opieki zdrowotnej i dostęp do świadczeń opieki zdrowotnej
+20.2,W Ratownictwo medyczne
+20.3,W Polityka lekowa
+20.4,W Rozwój infrastruktury systemu ochrony zdrowia
+20.5,"W Profilaktyka, edukacja i promocja zdrowia oraz nadzór sanitarno-epidemiologiczny"
+21.1,W Rozwój produkcji roślinnej i ochrona roślin uprawnych
+21.2,Rozwój hodowli i produkcji zwierzęcej
+21.3,W Ochrona zdrowia i dobrostanu zwierząt oraz zdrowia publicznego
+21.4,W Wspieranie rybactwa śródlądowego i rybołówstwa morskiego
+21.5,"W Wsparcie gospodarstw rolnych, rozwój wsi oraz żywność regionalna, tradycyjna i systemy jakości żywności"
+21.6,Regulacja i stabilizacja rynków rolnych i żywnościowych
+22.1,W Koordynacja działalności oraz obsługa administracyjna i techniczna

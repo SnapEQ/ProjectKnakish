@@ -1,0 +1,275 @@
+code,name
+1.1.1,Obsługa i koordynacja urzędu Prezydenta RP
+1.2.1,Wsparcie merytoryczne parlamentarzystów
+1.2.2,Obsługa organizacyjna Parlamentu i jego organów
+1.3.1,Obsługa i koordynacja prac rządu
+1.3.2,"Obsługa działalności legislacyjnej Prezesa Rady Ministrów, Rady Ministrów i członków Rady Ministrów"
+1.3.3,Zarządzanie korpusem służby cywilnej oraz podnoszenie jakości pracy w urzędach administracji rządowej
+1.4.1,Działalność orzecznicza i obsługa Trybunału Konstytucyjnego
+1.5.1,Wybory Prezydenta Rzeczpospolitej Polskiej
+1.5.2,Wybory do Sejmu i Senatu
+1.5.3,Wybory do Parlamentu Europejskiego
+1.5.4,"Wybory do rad gmin, rad powiatów i sejmików województw, wybory wójtów, burmistrzów i prezydentów miast oraz referenda gminne, powiatowe i wojewódzkie"
+1.5.5,Referenda ogólnokrajowe
+1.5.6,Finansowanie partii politycznych
+1.6.1,Kontrola procesu udzielania zamówień w zakresie przewidzianym ustawą
+1.6.2,Funkcjonowanie systemu środków ochrony prawnej
+1.7.1,Przygotowanie i wykonanie kontroli oraz upublicznienie ich wyników
+1.7.2,Przygotowanie analizy wykonania budżetu państwa i założeń polityki pieniężnej oraz innych raportów dotyczących funkcjonowania państwa
+1.7.3,Wykonywanie niekontrolnych funkcji naczelnego organu kontroli państwowej
+1.8.1,Działanie KRRiT na rzecz rozwoju rynku audiowizualnego
+1.8.2,Koncesjonowanie rozpowszechniania programów oraz dokonywanie wpisów do rejestru programów rozprowadzanych oraz programów telewizyjnych rozpowszechnianych wyłącznie w systemie teleinformatycznym
+1.8.3,"Kontrola programów radiowych, telewizyjnych i audiowizualnych usług medialnych na żądanie oraz organizowanie badań treści i odbioru tych programów i usług"
+1.8.4,Realizacja zadań wynikających z ustawy o opłatach abonamentowych
+1.9.1,"Gromadzenie, opracowywanie, digitalizacja i udostępnianie dokumentów z archiwów IPN"
+1.9.2,"Prowadzenie śledztw w sprawie zbrodni nazistowskich, komunistycznych oraz przeciwko ludzkości i innych"
+1.9.3,"Opracowywanie i publikowanie informacji w BIP IPN oraz katalogach tematycznych, prowadzenie rejestru oświadczeń lustracyjnych i ich analiza,"
+1.9.4,"Działalność edukacyjna, wystawiennicza, badawcza, wydawnicza i dokumentacyjna"
+1.10.1,Działania nadzorczo-kontrolne RIO
+1.11.1,Prace statystyczne i rozwojowe
+1.11.2,Prowadzenie krajowych rejestrów urzędowych
+1.11.3,Spisy powszechne
+2.1.1,System bezpieczeństwa publicznego
+2.1.2,"Bezpieczeństwo najważniejszych osób, obiektów i urządzeń w państwie"
+2.1.3,Działania służby prewencyjnej
+2.1.4,W Bezpieczeństwo w ruchu drogowym
+2.1.5,W Działania na rzecz poprawy bezpieczeństwa powszechnego i porządku publicznego
+2.1.6,Działania służb kryminalnej i śledczej
+2.1.7,Zwalczanie korupcji
+2.2.1,Realizacja zadań w zakresie postępowania karnego i pozakarnego
+2.2.2,Realizacja zadań Prokuratora Generalnego
+2.3.1,W Funkcjonowanie systemu ratowniczego i gaśniczego
+2.3.2,W Zapobieganie zagrożeniom pożarowym oraz przeciwdziałanie poważnym awariom przemysłowym
+2.3.3,W Obrona cywilna
+2.4.1,"W Koordynacja przedsięwzięć z zakresu zarządzania kryzysowego i przeciwdziałanie zagrożeniom, w tym terrorystycznym"
+2.4.2,W Przeciwdziałanie i usuwanie skutków klęsk żywiołowych
+2.4.3,W System powiadamiania ratunkowego
+2.5.1,Kontrola graniczna
+2.5.2,W Realizacja polityki migracyjnej i azylowej oraz sprawy cudzoziemców
+2.5.3,W Funkcjonowanie przejść granicznych
+3.1.1,W Zarządzanie i nadzór nad systemem oświaty
+3.1.2,"W Kształcenie ogólne, zawodowe i ustawiczne"
+3.1.3,W Kształcenie i doskonalenie nauczycieli oraz kształtowanie ich pragmatyki zawodowej
+3.1.4,Funkcjonowanie egzaminów zewnętrznych
+3.1.5,"W Wspieranie dzieci i młodzieży ze specjalnymi potrzebami edukacyjnymi, w tym uczniów zdolnych"
+3.1.6,W Edukacja pozalekcyjna i pozaszkolna
+3.1.7,W Wspieranie działalności edukacyjno-wychowawczej
+3.1.9,W Rozwój infrastruktury systemu oświaty
+4.1.1,"W Pobór podatków, ceł i niepodatkowych należności budżetu państwa"
+4.1.2,Kontrola celno-skarbowa oraz kontrola podatkowa
+4.1.3,Zwalczanie przestępczości ekonomicznej
+4.1.4,"Badania i analizy w zakresie finansów publicznych, budżetu i instytucji finansowych oraz upowszechnianie wiedzy i edukacja finansowa"
+4.2.1,"Przygotowanie, opracowanie, wykonanie, kontrola realizacji oraz przygotowanie sprawozdań z wykonania budżetu państwa"
+4.2.2,Zarządzanie i obsługa długu Skarbu Państwa
+4.2.3,Subwencje ogólne dla jednostek samorządu terytorialnego
+4.2.4,Płatność składki członkowskiej do budżetu UE
+4.2.5,W Rezerwy ogólna i celowe
+4.2.6,"Opinie, oceny i analizy polityki fiskalnej państwa"
+4.3.1,Tworzenie i koordynacja regulacji dotyczących rynków finansowych
+4.3.2,Nadzór nad rynkiem finansowym
+4.4.1,W Zarządzanie mieniem państwowym
+4.4.2,W Wykonywanie zastępstwa procesowego i rozstrzyganie sporów dotyczących praw i interesów Skarbu Państwa
+4.4.3,"Wsparcie finansowo-kapitałowe udzielane wybranym podmiotom, niebędące pomocą publiczną"
+4.5.1,W Roszczenia majątkowe wobec Skarbu Państwa i jst
+4.6.1,"Nadzór właścicielski nad spółkami Skarbu Państwa, w których prawa z akcji i udziałów wykonuje minister właściwy do spraw aktywów państwowych"
+6.1.1,Tworzenie warunków dla funkcjonowania przedsiębiorstw
+6.1.2,W Tworzenie warunków do zwiększania innowacyjności przedsiębiorstw
+6.1.3,Współpraca gospodarcza z zagranicą i promocja gospodarki polskiej za granicą
+6.1.4,Wsparcie projektów inwestycyjnych
+6.1.5,Organizacja i promocja działalności normalizacyjnej
+6.1.6,Wykonywanie czynności z zakresu ochrony praw własności intelektualnej
+6.1.7,"Wykonywanie czynności z dziedziny metrologii, probiernictwa i kas rejestrujących"
+6.1.8,Wykonywanie czynności dozoru technicznego oraz zapewnienie i propagowanie bezpieczeństwa urządzeń technicznych
+6.1.9,"Badanie i rozwój technologii kosmicznych oraz ich zastosowanie dla celów naukowych, gospodarczych i obronnych"
+6.2.1,W Rynki paliw i energii
+6.2.2,Rezerwy strategiczne oraz zapasy agencyjne ropy naftowej i paliw
+6.2.3,Gospodarka złożami kopalin
+6.3.1,W Regulacja i wspieranie rozwoju rynku telekomunikacyjnego oraz infrastruktury telekomunikacyjnej
+6.3.2,Wsparcie rozwoju i regulacja rynku usług pocztowych
+6.4.1,W Wsparcie i promocja turystyki
+6.5.1,Ochrona konkurencji
+6.5.2,W Ochrona konsumentów i nadzór rynku
+6.5.3,Pomoc publiczna
+6.5.4,W Jakość handlowa artykułów rolno-spożywczych
+6.5.5,W Ochrona klientów podmiotów rynku finansowego
+6.5.6,Przeciwdziałanie zatorom płatniczym
+7.1.1,"Tworzenie i koordynacja regulacji w zakresie budownictwa, mieszkalnictwa i gospodarki nieruchomościami"
+7.1.2,W Wsparcie mieszkalnictwa
+7.1.3,"W Prowadzenie spraw w zakresie lokalizacji inwestycji, gospodarki nieruchomościami i zagospodarowania przestrzennego"
+7.1.4,W Nadzór budowlany i administracja architektoniczno-budowlana
+7.2.1,"Planowanie, zagospodarowanie przestrzenne, rewitalizacja oraz polityka miejska"
+7.3.1,W Nadzór i kontrola w zakresie przestrzegania i stosowania przepisów w dziedzinie geodezji i kartografii
+7.3.2,W Prowadzenie państwowego zasobu geodezyjnego i kartograficznego
+7.3.3,Budowa infrastruktury informacji przestrzennej
+8.1.1,Tworzenie warunków dla rozwoju sportu dla wszystkich
+8.1.2,Upowszechnianie sportu w społeczeństwie
+8.2.1,Tworzenie warunków dla rozwoju sportu wyczynowego
+8.2.2,System szkolenia w sporcie wyczynowym
+9.1.1,W Ochrona materialnego dziedzictwa kulturowego i miejsc pamięci narodowej w kraju i za granicą
+9.2.1,"W Działalność artystyczna, upowszechniająca, promująca kulturę i dialog międzykulturowy"
+10.1.1,Wspieranie działalności naukowej i dydaktycznej
+10.1.2,Utrzymanie i rozwój infrastruktury szkolnictwa wyższego i nauki
+10.1.3,"Upowszechnianie, promocja oraz popularyzacja szkolnictwa wyższego i nauki"
+10.1.4,Wsparcie procesu kształcenia
+10.2.1,"Wspieranie badań aplikacyjnych, prac rozwojowych oraz komercjalizacji wyników B+R"
+11.1.1,Zdolność do dowodzenia Siłami Zbrojnymi RP
+11.1.2,Zdolność do rozpoznania
+11.1.3,Zdolność do rażenia sił przeciwnika
+11.1.4,Zdolność do zabezpieczenia logistycznego działań
+11.1.5,Zdolność do przetrwania i ochrony wojsk
+11.1.6,Uzupełnienie i mobilizacja wojsk
+11.1.7,Zabezpieczenie systemu szkolenia i wykorzystanie doświadczeń
+11.1.8,"Informatyzacja kierowania i zarządzania resortem obrony narodowej, cyberbezpieczeństwo oraz wsparcie kryptologiczne"
+11.1.9,Zakwaterowanie Sił Zbrojnych
+11.2.1,Wsparcie wywiadowcze
+11.2.2,Ochrona kontrwywiadowcza
+11.3.1,"Misje i operacje NATO, UE oraz koalicyjne"
+11.3.2,"Międzynarodowa współpraca bilateralna i współpraca w strukturach wielostronnych, w tym w ramach NATO i UE"
+11.4.1,Zabezpieczenie potrzeb Sił Zbrojnych przez przedsiębiorców
+11.4.2,W Pozamilitarne przygotowania obronne
+11.5.1,Wsparcie kierowania obronnością
+12.1.1,Tworzenie i koordynacja regulacji w zakresie ochrony środowiska oraz informacja o środowisku
+12.1.2,W Promocja zachowań proekologicznych i edukacja środowiskowa
+12.1.3,W Monitoring środowiska i kontrole w zakresie ochrony środowiska
+12.1.4,W Ochrona przed skutkami zagrożeń
+12.1.5,Nadzór nad bezpieczeństwem jądrowym i ochroną radiologiczną
+12.1.6,W Gospodarka odpadami
+12.2.1,W Ochrona przyrody i krajobrazu
+12.2.2,W Ochrona i zrównoważony rozwój lasów
+12.2.3,Ochrona i remediacja powierzchni ziemi
+12.3.1,W Systemy ochrony powietrza i przeciwdziałania zmianom klimatu
+12.4.1,W Gospodarcze wykorzystanie zasobów i struktur geologicznych oraz badania geologiczne
+12.4.2,Nadzór i kontrola nad ruchem zakładów górniczych oraz zakładów wykonujących roboty geologiczne
+12.5.1,"W Kształtowanie, ochrona i wykorzystanie zasobów wodnych"
+12.5.2,Utrzymanie wód i urządzeń wodnych wraz z infrastrukturą związaną z gospodarowaniem zasobami wodnymi
+12.5.3,W Ochrona przeciwpowodziowa
+12.5.4,W Wsparcie przedsięwzięć infrastrukturalnych w zakresie gospodarki wodno-ściekowej
+12.5.5,Nadzór nad gospodarowaniem wodami i powierzonym mieniem Skarbu Państwa oraz zwrot kosztów usług wodnych
+13.1.1,W Wsparcie jednostek realizujących zadania pomocy społecznej w realizacji zadań
+13.1.2,W Wspieranie osób zagrożonych wykluczeniem społecznym
+13.1.3,W Wyrównywanie szans zawodowych i integracja społeczna osób niepełnosprawnych
+13.1.4,W Wspieranie aktywnego starzenia się
+13.2.1,Świadczenia społeczne realizowane w ramach powszechnego systemu ubezpieczenia społecznego
+13.2.2,Świadczenia zlecone ZUS do realizacji na mocy odrębnych ustaw
+13.2.3,Świadczenia społeczne rolników
+13.2.4,Świadczenia zlecone KRUS do realizacji na mocy odrębnych ustaw
+13.2.5,Świadczenia społeczne żołnierzy i funkcjonariuszy
+13.2.6,Uposażenia dla sędziów i prokuratorów w stanie spoczynku i uposażenia rodzinne
+13.2.7,Nadzór i kształtowanie systemu ubezpieczeń społecznych
+13.2.8,Koordynacja systemów zabezpieczenia społecznego
+13.3.1,"W Sprawy kombatantów, osób represjonowanych, działaczy opozycji antykomunistycznej i osób represjonowanych z powodów politycznych"
+13.4.1,W Wsparcie rodzin wychowujących dzieci i opiekujących się osobami niepełnosprawnymi
+13.4.2,W Wsparcie rodzin przeżywających trudności w wypełnianiu funkcji opiekuńczo-wychowawczych oraz piecza zastępcza nad dzieckiem
+13.4.3,Wykonywanie zadań z zakresu przysposobienia
+13.5.1,W Ekonomia społeczna
+14.1.1,W System publicznych służb zatrudnienia
+14.1.2,Świadczenia obligatoryjne
+14.1.3,W Aktywne formy przeciwdziałania bezrobociu
+14.1.4,Zatrudnienie oraz przeciwdziałanie marginalizacji i wykluczeniu społecznemu młodzieży
+14.1.5,W Aktywizacja zawodowa osób niepełnosprawnych
+14.2.1,Tworzenie ram prawnych stosunków i warunków pracy oraz współpraca międzynarodowa
+14.2.2,Nadzór i kontrola przestrzegania prawa pracy
+14.2.3,Ochrona roszczeń pracowniczych
+14.2.4,Wyrównywanie szans kobiet i mężczyzn na rynku pracy
+14.3.1,W Wsparcie rozwoju i organizowanie dialogu i partnerstwa społecznego
+15.1.1,Stosunki dwustronne i wielostronne w wymiarze politycznym i gospodarczym
+15.1.2,Kształtowanie i koordynacja polityki RP w Unii Europejskiej
+15.1.3,Umacnianie bezpieczeństwa zewnętrznego RP
+15.2.1,Kształtowanie pozytywnego wizerunku RP za granicą
+15.2.2,"Wspieranie rozwoju demokracji, promocja praw człowieka oraz udział w międzynarodowej współpracy rozwojowej"
+15.2.3,Upowszechnianie wiedzy o Polsce oraz informowanie o polityce zagranicznej RP
+15.3.1,Pomoc i obsługa konsularna
+15.3.2,Reprezentowanie i ochrona interesów RP przed międzynarodowymi organami ochrony praw człowieka
+15.3.3,Wspieranie Polonii i Polaków za granicą
+16.1.1,"W Ewidencja ludności, rejestracja stanu cywilnego oraz dokumenty tożsamości"
+16.1.2,Centralne systemy ewidencji państwowych
+16.1.3,W Prowadzenie spraw dotyczących obywatelstwa polskiego i repatriacji
+16.1.4,W System administracji publicznej i współpraca z jednostkami samorządu terytorialnego
+16.1.5,Sprawowanie funkcji organu wyższego stopnia w indywidualnych sprawach z zakresu administracji publicznej należących do właściwości jst oraz orzekanie w innych sprawach na zasadach określonych w ustawach
+16.1.6,Realizacja zadań z zakresu prawa humanitarnego
+16.2.1,W Przeciwdziałanie dyskryminacji oraz działania na rzecz mniejszości narodowych i etnicznych
+16.3.1,W Realizacja zadań z zakresu stosunków pomiędzy Państwem a Kościołami i innymi związkami wyznaniowymi
+16.3.2,Duszpasterstwa wojskowe
+16.4.1,Ochrona wolności oraz praw człowieka i obywatela
+16.4.2,Ochrona i promocja praw dziecka
+16.4.3,Ochrona danych osobowych
+16.5.1,W Upowszechnianie i wspieranie rozwoju e-usług publicznych
+16.5.2,Wspieranie rozwoju społeczeństwa informacyjnego
+16.5.3,Kształtowanie bezpieczeństwa cyberprzestrzeni
+16.5.4,Informatyzacja systemu kierowania bezpieczeństwem narodowym
+16.6.1,W Pożytek publiczny i wspieranie rozwoju społeczeństwa obywatelskiego
+17.1.1,Wsparcie rozwoju województw w ramach programów regionalnych
+17.1.2,W Wsparcie rozwoju w ramach programów krajowych i planu rozwojowego
+17.1.3,W Wsparcie województw w ramach pozostałych programów finansowanych z udziałem niepodlegających zwrotowi środków pomocy
+17.2.1,"W Koordynacja realizacji, zarządzanie i wdrażanie programów realizowanych z udziałem środków pochodzących z budżetu UE"
+17.2.2,W Zarządzanie realizacją i wdrażanie pozostałych programów finansowanych z udziałem niepodlegających zwrotowi środków pomocowych
+18.1.1,Sprawowanie wymiaru sprawiedliwości przez Sąd Najwyższy
+18.2.1,Strzeżenie niezależności sądów i niezawisłości sędziów przez Krajową Radę Sądownictwa
+18.3.1,Sprawowanie wymiaru sprawiedliwości przez sądy powszechne
+18.3.2,Sprawowanie wymiaru sprawiedliwości przez sądy wojskowe
+18.4.1,Sprawowanie wymiaru sprawiedliwości przez sądy administracyjne
+18.5.1,Wykonywanie kary pozbawienia wolności w warunkach izolacji więziennej oraz tymczasowego aresztowania
+18.5.2,Wykonywanie kar alternatywnych wobec kary pozbawienia wolności
+18.5.3,Resocjalizacja osób pozbawionych wolności poprzez pracę i pomoc postpenitencjarną
+18.6.1,Działalność zakładów dla nieletnich
+18.7.1,Przygotowanie zawodowe i doskonalenie kadr sądów powszechnych i prokuratur oraz nadzór nad aplikacjami i zawodami prawniczymi
+18.7.2,W Budowa i realizacja strategii oraz wsparcie procesów stanowienia prawa i sprawowania wymiaru sprawiedliwości
+18.7.3,"Infrastruktura IT oraz rejestry sądowe i Krajowy Rejestr Karny, Monitor Sądowy i Gospodarczy, Krajowy Rejestr Zadłużonych"
+19.1.1,W Kształtowanie warunków funkcjonowania i rozwoju transportu drogowego
+19.1.2,W Bezpieczeństwo użytkowników sieci drogowej
+19.1.3,Zarządzanie siecią dróg krajowych
+19.1.4,"W Budowa, przebudowa, utrzymanie i remonty sieci dróg publicznych"
+19.2.1,Kształtowanie warunków funkcjonowania i rozwoju transportu kolejowego
+19.2.2,Nadzór nad bezpieczeństwem oraz rynkiem transportu kolejowego
+19.2.3,Efektywne wykorzystanie infrastruktury kolejowej
+19.2.4,Rozwój infrastruktury kolejowej
+19.3.1,Kształtowanie warunków funkcjonowania i rozwoju transportu morskiego i żeglugi śródlądowej
+19.3.2,"Administracja morska, bezpieczeństwo żeglugi morskiej i ratownictwo morskie"
+19.3.3,Ochrona brzegów i ograniczenie oddziaływania na środowisko morskie
+19.3.4,Administracja żeglugi śródlądowej i żegluga śródlądowa
+19.3.5,Rozwój infrastruktury dostępowej od strony morza
+19.4.1,Kształtowanie warunków funkcjonowania i rozwoju transportu lotniczego
+19.4.2,Regulacja i nadzór nad systemem lotnictwa cywilnego w Polsce
+19.4.3,Rozwój infrastruktury lotniskowej i nawigacyjnej
+19.5.1,W Wspieranie transportu przyjaznego środowisku
+19.5.2,"Wykonywanie dozoru technicznego w zakresie transportu drogowego, kolejowego oraz śródlądowego, homologacja typu pojazdu, przedmiotu wyposażenia i części, zapewnienie bezpiecznej eksploatacji pojazdów w ruchu drogowym"
+20.1.1,W Kształtowanie warunków funkcjonowania i rozwoju systemu opieki zdrowotnej
+20.1.2,Wspieranie restrukturyzacji systemu ochrony zdrowia
+20.1.3,W Opłacanie i refundacja składek na ubezpieczenie zdrowotne z budżetu państwa za osoby uprawnione
+20.1.4,W Świadczenia opieki zdrowotnej finansowane ze środków publicznych
+20.1.5,Medycyna transplantacyjna
+20.1.6,Funkcjonowanie publicznej służby krwi
+20.1.7,Ochrona praw pacjenta
+20.2.1,W Ratownictwo medyczne
+20.3.1,"Rejestracja produktów leczniczych i produktów biobójczych, nadzór nad wyrobami medycznymi"
+20.3.2,W Nadzór nad produktami leczniczymi oraz wyrobami medycznymi
+20.3.3,Dostęp do leków i wyrobów medycznych
+20.4.1,W Rozwój infrastruktury systemu ochrony zdrowia
+20.5.1,W Profilaktyka zdrowotna i promocja zdrowego trybu życia
+20.5.2,W Nadzór sanitarny i działalność kontrolno-inspekcyjna
+20.5.3,W Zapobieganie i zwalczanie chorób zakaźnych
+20.5.4,W Ochrona zdrowia przed szkodliwym wpływem czynników środowiskowych
+21.1.1,Gromadzenie i upowszechnianie wiedzy w zakresie produkcji roślinnej i ochrony roślin uprawnych
+21.1.2,Rejestracja i ochrona prawna odmian roślin uprawnych
+21.1.3,W Ochrona roślin i nasiennictwo
+21.1.4,W Rośliny genetycznie zmodyfikowane
+21.1.5,Agrochemiczna obsługa rolnictwa w Polsce
+21.2.1,Postęp biologiczny w produkcji zwierzęcej
+21.2.2,Kontrola w zakresie hodowli i produkcji zwierzęcej
+21.3.1,"W Ochrona zdrowia, zwalczanie chorób zakaźnych, dobrostan zwierząt oraz bezpieczeństwo zdrowia publicznego"
+21.3.3,"Diagnostyka laboratoryjna chorób zwierząt, skażeń żywności i pasz"
+21.4.1,W Wspieranie rybactwa śródlądowego
+21.4.2,Wspieranie rybołówstwa morskiego
+21.4.4,Przetwórstwo i obrót produktami rybołówstwa i akwakultury
+21.4.5,W Programy wsparcia rybołówstwa
+21.5.1,Realizacja systemów wsparcia bezpośredniego
+21.5.3,W Wsparcie rozwoju obszarów wiejskich
+21.5.4,W Pomoc krajowa i unijna inna niż WPR
+21.5.5,Doradztwo rolnicze
+21.5.6,Kształtowanie ustroju rolnego państwa i gospodarki żywnościowej
+21.5.7,Rolnictwo ekologiczne
+21.5.8,"Promocja żywności, systemy jakości żywności, żywność regionalna i tradycyjna"
+21.5.9,W Wsparcie infrastruktury wsi
+21.5.10,Zbieranie i wykorzystywanie danych rachunkowych z gospodarstw rolnych na potrzeby sieci danych rachunkowości gospodarstw rolnych
+21.6.1,Regulacja i stabilizacja rynków rolnych i żywnościowych
+22.1.1,W Koordynacja działalności oraz obsługa administracyjna i techniczna
