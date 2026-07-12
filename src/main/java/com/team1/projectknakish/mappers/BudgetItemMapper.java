@@ -25,17 +25,6 @@ public interface BudgetItemMapper {
     @Mapping(target = "departmentId", source = "department.id")
     BudgetItemDto toDto(BudgetItem entity);
 
-    @Mapping(target = "budgetPart", ignore = true)
-    @Mapping(target = "section", ignore = true)
-    @Mapping(target = "subSection", ignore = true)
-    @Mapping(target = "paragraph", ignore = true)
-    @Mapping(target = "financeSource", ignore = true)
-    @Mapping(target = "expenseGroup", ignore = true)
-    @Mapping(target = "budgetClassificationNode", ignore = true)
-    @Mapping(target = "department", ignore = true)
-    @Mapping(target = "id", ignore = true)
-    BudgetItem toEntity(BudgetItemDto entityDto);
-
     @Mapping(target = "budgetPart", source = "budgetPart")
     @Mapping(target = "section", source = "section")
     @Mapping(target = "subSection", source = "subSection")

@@ -13,7 +13,6 @@ import java.util.UUID;
 @Builder
 public class BudgetItemDto {
     private UUID id;
-
     private UUID budgetPartId;
     private UUID sectionId;
     private UUID subSectionId;

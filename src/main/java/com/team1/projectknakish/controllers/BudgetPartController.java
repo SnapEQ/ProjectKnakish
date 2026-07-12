@@ -1,7 +1,7 @@
 package com.team1.projectknakish.controllers;
 
 import com.team1.projectknakish.domain.entities.dict.BudgetPart;
-import com.team1.projectknakish.dto.BudgetPartDto;
+import com.team1.projectknakish.dto.responses.BudgetPartResponse;
 import com.team1.projectknakish.mappers.BudgetPartMapper;
 import com.team1.projectknakish.services.BudgetPartService;
 import org.springframework.http.HttpStatus;
@@ -26,9 +26,9 @@ public class BudgetPartController {
 
 
     @GetMapping
-    public ResponseEntity<List<BudgetPartDto>> getAllBudgetParts() {
+    public ResponseEntity<List<BudgetPartResponse>> getAllBudgetParts() {
         List<BudgetPart> budgetParts = budgetPartService.getAllBudgetParts();
-        List<BudgetPartDto>budgetPartsDto = budgetParts.stream().map(budgetPartMapper::toDto).toList();
-        return new ResponseEntity<>(budgetPartsDto,HttpStatus.OK);
+        List<BudgetPartResponse>budgetPartsResponse = budgetParts.stream().map(budgetPartMapper::toResponse).toList();
+        return new ResponseEntity<>(budgetPartsResponse,HttpStatus.OK);
     }
 }
